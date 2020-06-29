@@ -1,0 +1,38 @@
+.c-img{
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    position: relative;  
+    display: flex;
+    align-items: center;
+
+
+    
+
+}
+.c-img img{  
+    width: 2000px;
+    
+}
+.txt{
+    width: 600px;
+    text-align: center;
+    position: absolute;
+    
+    
+}
+
+
+.txt h1{
+    background: white;
+    text-align: center;
+}
+.txt h2{
+    background: white;
+}
+
+.container{
+    
+    background: gray;
+}
+
